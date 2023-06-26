@@ -1,0 +1,2 @@
+sound/BGM.mp3 filter=lfs diff=lfs merge=lfs -text
+sound/BGM_Login.mp3 filter=lfs diff=lfs merge=lfs -text
